@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Pother Pachali",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJg4Yj7P3d9kIirUJ25ICir1wWsNSDrMUn7Q&usqp=CAU",
+    "author": "Bivuti Vushon",
+    "price": 475,
+    "catergory" : "fiction",
+    "Released" : "1999"
+  },
+  {
+    "id": 2,
+    "name": "Amar Bondhu Rashed",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZUtVF99PDe08dh3sxvhd38EfqPkC2Ulm18t71lhE&s",
+    "author": "Jafar Iqbal",
+    "price": 255,
+    "catergory" : "fiction",
+    "Released" : "2012"
+  },
+  {
+    "id": 3,
+    "name": "Himu Shomogro",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Dkuj_876XjBViO2anxuiaR77D54HlIaNRQ&usqp=CAU",
+    "author": "Humayun Ahmed",
+    "catergory" : "fiction",
+    "price": 675,
+    "Released" : "2002"
+  },
+  {
+    "id": 4,
+    "name": "Devdash",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVffmo3ZGEN8MIa7aglesfG_xdPYdDDrQvrw&usqp=CAU",
+    "author": "ShorotChandra",
+    "price": 175,
+    "catergory" : "fiction",
+    "Released" : "1985"
+  },
+  {
+    "id": 5,
+    "name": "Rich Dad Poor Dad",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk2uuGq4zvxlamk3pvmCJ5WKj5jdGiS3bkqQ&usqp=CAU",
+    "author": "Robert Kiyosaki",
+    "price": 700,
+    "catergory" : "self-development",
+    "Released" : "2017"
+  },
+  {
+    "id": 6,
+    "name": "Nowkadubi",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB84iGFUYdVUgHHgfAo9qcE6IZOOqq0-Xfvg&usqp=CAU",
+    "author": "Robi Thakur",
+    "price": 225,
+    "catergory" : "fiction",
+    "Released" : "1930"
+  },
+  {
+    "id": 7,
+    "name": "Botol Vut",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSdKps5zmxCsviwe7-Tsom8WBNGEhOjKqH_A&usqp=CAU",
+    "author": "Humayun Ahmed",
+    "price": 190,
+    "catergory" : "fiction",
+    "Released" : "2005"
+  },
+  {
+    "id": 8,
+    "name": "Subtle Art of Not giving a cumu",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4eHH_CaREKhv4b2SVS4gvzCSkO6G7vR-FVw&usqp=CAU",
+    "author": "Mark Manson",
+    "price": 875,
+    "catergory" : "self-development",
+    "Released" : "2020"
+    
+  }
+]

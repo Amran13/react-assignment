@@ -1,0 +1,17 @@
+.indivijual-book{
+    background-color: lightgoldenrodyellow;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+    padding: 20px;
+}
+.indivijual-book > img{
+    width: 150px;
+    border-radius: 10%;
+    
+}
+button{
+    padding: 7px 15px;
+    background-color: goldenrod;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
