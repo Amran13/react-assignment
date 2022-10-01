@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Devdash",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVffmo3ZGEN8MIa7aglesfG_xdPYdDDrQvrw&usqp=CAU",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHe7iFJyQlFnHFOngEVzNkUkIKi3M8uth4g&usqp=CAU",
     "author": "ShorotChandra",
     "price": 175,
     "catergory" : "fiction",
@@ -70,6 +70,16 @@
     "price": 875,
     "catergory" : "self-development",
     "Released" : "2020"
+    
+  },
+  {
+    "id": 9,
+    "name": "Onvuvutir Ovidhan",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhKJWhsP81PI_kRfKo_vQj82vH-vaiHOBmqQ&usqp=CAU",
+    "author": "Tahsan Khan",
+    "price": 300,
+    "catergory" : "psychology",
+    "Released" : "2021"
     
   }
 ]

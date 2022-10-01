@@ -12,12 +12,16 @@ const Books = () => {
     },[])
 
     const handleAddToCart = (product) => {
+        const li = document.createElement('li');
+        li.innerText = product.name;
+        document.getElementById('list-item').appendChild(li);
         const newCart = [...cart, product]
         setCart(newCart);
     }
     let total = 0;
     for(const product of cart){
         total = total + product.price;
+        
     }
     return (
         <div className='books-container'>
@@ -29,6 +33,7 @@ const Books = () => {
             <div className="books-cart">
                 <h3>Total Added : {cart.length} </h3>
                 <h3>Price : {total} </h3>
+                <ul id='list-item'></ul>
             </div>
         </div>
     );

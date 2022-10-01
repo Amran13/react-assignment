@@ -1,11 +1,12 @@
 .indivijual-book{
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(212, 212, 131);
     border-radius: 10px;
     box-shadow: 10px 10px 30px gray;
     padding: 20px;
 }
 .indivijual-book > img{
     width: 150px;
+    height: 200px;
     border-radius: 10%;
     
 }
